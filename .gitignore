@@ -1,0 +1,12 @@
+########### ignore these directories
+
+build
+
+src/tags
+
+################# ignore these files
+compile_commands.json
+
+mapbuilder
+
+temp
